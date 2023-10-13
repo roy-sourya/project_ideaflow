@@ -1,5 +1,5 @@
 'use client';
-// used to convert client side to server side stack so that we can use react hooks, components and so on
+
 import { motion } from 'framer-motion';
 
 import styles from '../styles';

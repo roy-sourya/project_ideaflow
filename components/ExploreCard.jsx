@@ -35,8 +35,8 @@ const ExploreCard = ({ id, imgUrl, title, content, index, active, handleClick })
         </div>
         <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
           {title}
-          </h2>
-          <p className="text-white">{content}</p>
+        </h2>
+        <p className="text-white">{content}</p>
       </div>
     )}
   </motion.div>
